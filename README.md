@@ -1,10 +1,17 @@
-# Project 1: Practicum Library
+# Practicum Library
 
-The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
+My first ever project based on a fictional library. A simple landing page that features many different sections!
 
-## Project features
+# Project features
 
 - Semantic HTML5
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+# Project Images
+
+<div>
+<img src="./images/lib 2.jpeg" alt="project image" align="center">
+<img src="./images/Lib 1.jpeg" alt="project image" align="center">
+</div>
